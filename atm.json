@@ -1,1 +1,1 @@
-[{"id":1,"name":"SATYAJEET","password":"2004","acc_no":"3003","balance":"50000"},{"id":2,"name":"Rushi","password":"2303","acc_no":"0323","balance":"500000"},{"id":3,"name":"Aryan","password":"2205","acc_no":"2007","balance":"10000"}]
+[{"id":1,"password":"2004","acc_no":"3003","balance":"50000"},{"id":2,"password":"2303","acc_no":"0323","balance":"500000"},{"id":3,"password":"2205","acc_no":"2007","balance":"10000"}]
