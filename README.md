@@ -137,5 +137,5 @@ This project is open-source.
 
 ## Author 🖋️
 
-Developed by SATYAJEET DESAi. Contributions and suggestions are welcome!
+Developed by SATYAJEET DESAI. Contributions and suggestions are welcome!
 
